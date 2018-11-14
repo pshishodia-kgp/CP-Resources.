@@ -11,3 +11,5 @@
 [Trie](https://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems)
 
 [Centroid Decomposition](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree)
+
+[Generating Functions](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Generating-Functions.pdf)
