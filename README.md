@@ -13,3 +13,7 @@
 [Centroid Decomposition](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree)
 
 [Generating Functions](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Generating-Functions.pdf)
+
+[Dirchlet Convolution](https://codeforces.com/blog/entry/54150)
+
+[Mobius Inversion](https://codeforces.com/blog/entry/53925)
