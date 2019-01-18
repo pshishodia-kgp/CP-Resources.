@@ -17,3 +17,5 @@
 [Dirchlet Convolution](https://codeforces.com/blog/entry/54150)
 
 [Mobius Inversion](https://codeforces.com/blog/entry/53925)
+
+[Rotating Callipers](http://web.archive.org/web/20120313054937/http://cgm.cs.mcgill.ca/~orm/rotcal.html)
