@@ -4,6 +4,12 @@
 
 [Mobius and Arithmetic Functions](https://math.berkeley.edu/~stankova/MathCircle/Multiplicative.pdf)
 
+[Mobius Inversion](https://codeforces.com/blog/entry/53925)
+
+[Mobius Inversion Slides](https://drive.google.com/file/d/1JPN-FHGPr6KEOzBe7DQm_FGK--KeBunP/view)
+
+[Dirchlet Convolution](https://codeforces.com/blog/entry/54150)
+
 [Posets and Hall Marriage Theorem](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Posets.pdf)
 
 [Line Sweep](http://codeforces.com/blog/entry/20377)
@@ -13,10 +19,6 @@
 [Centroid Decomposition](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree)
 
 [Generating Functions](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Generating-Functions.pdf)
-
-[Dirchlet Convolution](https://codeforces.com/blog/entry/54150)
-
-[Mobius Inversion](https://codeforces.com/blog/entry/53925)
 
 [Rotating Callipers](http://web.archive.org/web/20120313054937/http://cgm.cs.mcgill.ca/~orm/rotcal.html)
 
