@@ -19,3 +19,9 @@
 [Mobius Inversion](https://codeforces.com/blog/entry/53925)
 
 [Rotating Callipers](http://web.archive.org/web/20120313054937/http://cgm.cs.mcgill.ca/~orm/rotcal.html)
+
+[Dp optimizations 1] (http://maratona.ic.unicamp.br/MaratonaVerao2017/documents/dp.pdf)
+
+[Dp Optimizations 2] (https://codeforces.com/blog/entry/8219)
+
+[Sqrt Decomposition] (http://acm.math.spbu.ru/~sk1/mm/lections/mipt2016-sqrt/mipt-2016-burunduk1-sqrt.en.pdf)
