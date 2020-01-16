@@ -27,3 +27,29 @@
 [Dp Optimizations 2](https://codeforces.com/blog/entry/8219)
 
 [Sqrt Decomposition](http://acm.math.spbu.ru/~sk1/mm/lections/mipt2016-sqrt/mipt-2016-burunduk1-sqrt.en.pdf)
+
+[Anti Hash Tests](https://codeforces.com/blog/entry/4898)
+
+[Mo's algorithm on Trees](https://codeforces.com/blog/entry/43230)
+
+[Xor-FFT](https://codeforces.com/blog/entry/65154)
+
+[Factorial-Modulo-Prime Trick](https://codeforces.com/blog/entry/5457)
+
+[Wavelet Trees](https://codeforces.com/blog/entry/52854)
+
+[Segment Tree Beats](https://codeforces.com/blog/entry/62528)
+
+[BerleKamp-Massey Algorithm](https://codeforces.com/blog/entry/61306)
+
+[Parallel Binary Search](https://codeforces.com/blog/entry/45578)
+
+[Policy Based Data Structures](https://codeforces.com/blog/entry/11080)
+
+[Matroid Intersection](https://codeforces.com/blog/entry/69287)
+
+[Maximum Antichain of Poset](https://codeforces.com/blog/entry/3781)
+
+[Sliding Window-StackQueue Trick](https://codeforces.com/blog/entry/71687)
+
+[Dfs Tree](https://codeforces.com/blog/entry/68138)
